@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simplyhappydude
 - 👀 I’m interested in simplifying technology
-- 🌱 I’m currently learning the technology
+- 🌱 I’m currently learning running databases on k8s
 - 💞️ I’m looking to collaborate on simplifying the technology
 - 📫 How to reach me akshay.polji@gmail.com
 
